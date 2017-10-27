@@ -1,6 +1,6 @@
 # KNN-and-SVM-Natural-Language-Processing-Tweet-Stats
 
-This project utilizes several machine learning libraries to get natural text data from twitter and use them to populate a database for classification utlizing KNN and SVM classification algorithms. The purpose for this project is for study of classification techniiques, data analysis, and the Python programming language
+This project utilizes several machine learning libraries to get natural text data from twitter and use them to populate a database for classification utlizing KNN and SVM classification algorithms. The purpose for this project is for study of classification techniques, data analysis, and the Python programming language
 
 # Libraries used
 
